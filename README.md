@@ -80,6 +80,13 @@ Durante a simulação, foi possível observar que a variação da luminosidade c
 
 O acionamento dos LEDs permitiu representar visualmente as diferentes faixas da leitura, enquanto o Monitor Serial possibilitou acompanhar os valores numericamente durante a execução.
 
+## Referências
+
+BERTOLETI, Pedro. O que é LDR? Funcionamento, tipos e uso com Arduino. MakerHero, 14 out. 2024. Disponível em: https://www.makerhero.com/blog/o-que-e-ldr/. Acesso em: 15 set. 2026. 
+
+WOKWI. Wokwi: online electronics simulator. Wokwi B.V., [s.d.]. Disponível em: https://wokwi.com/. Acesso em: 15 set. 2026. 
+
+
 
 ## 👩‍💻 Autora
 
